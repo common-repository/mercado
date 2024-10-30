@@ -1,0 +1,45 @@
+<wpml-config>
+    <admin-texts>
+        <key name="rtwmer_privacy_page"/>
+            <key name="rtwmer_setting_privacy_content"/></key>
+        </key>
+        <key name="_billing_first_name"/></key>
+        <key name="_billing_last_name"/></key>
+        <key name="_billing_company"/></key>
+        <key name="_billing_city"/></key>
+        <key name="_billing_address_2"/></key>
+        <key name="_billing_address_1"/></key>
+        <key name="_billing_address_index"/></key>
+        <key name="_shipping_first_name"/></key>
+        <key name="_shipping_last_name"/></key>
+        <key name="_shipping_company"/></key>
+        <key name="_shipping_city"/></key>
+        <key name="_shipping_address_2"/></key>
+        <key name="_shipping_address_1"/></key>
+        <key name="_shipping_address_index"/></key>
+        <key name="_purchase_note"/></key>
+        <key name="_payment_method_title"/></key>
+        <key name="rtwmer_store_name"/></key>
+        <key name="rtwmer_store_url"/></key>
+        <key name="rtwmer_store_name"/></key>
+        <key name="rtwmer_store_name"/></key>
+
+        <key name="rtwmer_vendor_address1"/></key>
+        <key name="rtwmer_vendor_address2"/></key>
+        <key name="rtwmer_vendor_city"/></key>
+        <key name="rtwmer_vendor_zip"/></key>
+        <key name="rtwmer_vendor_state"/></key>
+        <key name="rtwmer_store_time_widget"/>
+            <key name="Store_open_notice"/></key>
+            <key name="Store_close_notice"/></key>
+        </key>
+        <key name="rtwmer_vendor_paypal_email"/></key>
+        <key name="rtwmer_vendor_bank_account_name"/></key>
+        <key name="rtwmer_vendor_bank_account_no"/></key>
+        <key name="rtwmer_vendor_bank_name"/></key>
+        <key name="rtwmer_vendor_bank_address"/></key>
+        <key name="rtwmer_vendor_routing_number"/></key>
+        <key name="rtwmer_vendor_bank_iban"/></key>
+        <key name="rtwmer_vendor_bank_swift"/></key>
+    </admin-texts>
+</wpml-config>

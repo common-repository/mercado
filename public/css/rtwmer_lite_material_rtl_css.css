@@ -1,0 +1,209 @@
+/*--------------------------------------------------------------
+# General css
+--------------------------------------------------------------*/
+body {
+  background-color: #eaf1f3 !important;
+
+}
+.select2-dropdown {
+  border: 0;
+  box-shadow: 0px 0px 8px gray;
+}
+
+/*--------------------------------------------------------------
+# Top Header CSS
+--------------------------------------------------------------*/
+.rtwmer-home-wrap {
+  background-color: #fff;
+  box-shadow: 0 1px 3px rgba(27, 23, 30, 0.1);
+}
+.rtwmer-site-title a, .rtwmer-Url{
+  color: #1f2940;
+}
+/*************************************** top header css end ********************************/
+
+.rtwmer_order_completed,
+.rtwmer_order_pending,
+.rtwmer_order_process,
+.rtwmer_order_on-hold,
+.rtwmer_order_cancelled,
+.rtwmer_order_refunded,
+.rtwmer_order_failed,
+.rtwmer_order_trash,
+.rtwmer_publish,
+.rtwmer_published,
+.rtwmer_draft,
+.rtwmer_pending,
+.rtwmer_product_trash,
+.rtwmer_withdraw_pending {
+  color: #fff;
+}
+.rtwmer_order_pending,
+.rtwmer_pending,
+.rtwmer_withdraw_pending {
+  background: #dd5600;
+}
+.rtwmer_order_on-hold,
+.rtwmer_draft {
+  background: #FF9800;
+}
+.rtwmer_product_trash {
+  background: #c71c22;
+}
+.rtwmer_order_process {
+  background: #0080ff;
+}
+.rtwmer_published{
+  background-color: #56a5a5;
+}
+.rtwmer_order_cancelled {
+  background: #756565;
+}
+.rtwmer_order_refunded {
+  background: #196f68;
+}
+.rtwmer_order_failed {
+  background: #d03131;
+}
+.rtwmer_order_trash {
+  background: black;
+}
+.rtwmer_delete {
+  color: #d22f2fba;
+}
+.rtwmer_order_completed{
+background-color: #56ab2f;
+}
+.rtwmer_edit {
+  color: #58bd58;
+}
+.rtwmer_duplicate_product {
+  color: #807f7e;
+}
+.rtwmer_report_card1 {
+  background: #b12e45;
+}
+.rtwmer_report_card2 {
+  background: teal;
+}
+.rtwmer_report_card4 {
+  background: blueviolet;
+}
+.rtwmer_report_card3 {
+  background: #ff9800;
+}
+.rtwmer_cards {
+  background: #fafafa;
+  box-shadow: 0px 5px 6px -3px rgba(0, 0, 0, 0.2),
+    0px 9px 12px 1px rgba(0, 0, 0, 0.14), 0px 3px 16px 2px rgba(0, 0, 0, 0.12);
+}
+
+/* card section start */
+.mdc-card.rtwmer_order_card2 {
+  background: #008000;
+}
+.mdc-card.rtwmer_order_card3,
+.mdc-card.rtwmer_withdraw_card1 {
+  background: #8f4552;
+}
+.mdc-card.rtwmer_order_card4,
+.mdc-card.rtwmer_withdraw_card2 {
+  background: #80bebe;
+}
+.mdc-card.rtwmer_order_card1 {
+  background: #8581a7;
+}
+.mdc-card.rtwmer_progress8,
+.mdc-card.rtwmer_progress12 {
+  background: teal;
+}
+.mdc-card.rtwmer_progress7,
+.mdc-card.rtwmer_progress11 {
+  background-color: #d96075;
+}
+.mdc-card.rtwmer_progress4 {
+  background: #57579f;
+}
+.rtwmer-price-cards, .rtwmer-orders-cards, .rtwmer-prdct-cards, .rtwmer-withdraw-cards {
+  color: #fff;
+}
+.mdc-card.rtwmer_tot_card1,
+.mdc-card.rtwmer_prod_card3 {
+  background: #f24f7c;
+}
+.mdc-card.rtwmer_tot_card2,
+.mdc-card.rtwmer_prod_card2 {
+  background: #716cb0;
+}
+.mdc-card.rtwmer_tot_card3,
+.mdc-card.rtwmer_prod_card1 {
+  background: #02a8b5;
+}
+.mdc-card.rtwmer_progress1,
+.mdc-card.rtwmer_progress10 {
+  background: #ffb11c;
+}
+.mdc-card.rtwmer_progress2,
+.mdc-card.rtwmer_progress9 {
+  background: #1bc5bd;
+}
+.mdc-card.rtwmer_progress3 {
+  background: #666f6e;
+}
+.rtwmer-progress-bar {
+  color: #fff;
+}
+.rtwmer-progress-bar::after {
+  background: #fff;
+}
+
+/* Add new product modal card css  */
+.rtwmer_card{
+  background-color: #fff;
+}
+.rtwmer_card_header {
+  background: #f8f9fc;
+}
+.rtwmer-doller-box{
+  background: #f8f9fc;
+}
+/*//////********************* payment section css start *********************/
+
+.rtwmer-payment-input-box{
+  background-color: #fff;
+}
+.rtwmer-payment-text-field.mdc-text-field .mdc-line-ripple::after {
+  border-bottom-color: #00a1ff !important;
+}
+.rtwmer-payment-text-field.mdc-text-field .mdc-line-ripple::before {
+  border-bottom-color: #6d6e7d !important;
+}
+.rtwmer_payment_tabs_list li a {
+  color: #333;
+}
+.rtwmer_store_setup_payment_sec {
+  width: 50%;
+  margin: 1rem auto;
+}
+#rtwmer_pannels .dataTables_wrapper{
+  background: #fff;
+}
+#rtwmer_pannels .dataTables_wrapper table th {
+  color: #333;
+}
+#rtwmer_pannels .dataTables_wrapper table tr:hover,
+#rtwmer_shipping_method_table tr:hover {
+  background-color: #f5f5f5;
+}
+.rtwmer_rev_ratings .star-rating span::before {
+  color: #4250c2;
+}
+/* tooltip css */
+.rtwmer_tooltip .rtwmer_tooltiptext{
+  background-color: #1e1c1e;
+  color: #fff;
+}
+.rtwmer_tooltiptext::after{
+  border-color: #ec09ec transparent transparent transparent;
+  display: none;
+}
